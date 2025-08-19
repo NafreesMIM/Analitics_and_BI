@@ -1,0 +1,501 @@
+Institution Name,Institution Type,Student Enrollment,Faculty Salary (Avg.),Research Funding (Million USD),Graduation Rate (%),Student-Faculty Ratio,Tuition Fees (USD),Employment Rate (%),University Ranking Score
+Princeton University,Public,24350,197809,390.24,81.58,27.75,10690,99.47,100.2
+University of Virginia,Private,43605,96062,208.6,89.12,25.2,52626,70.85,76.53
+University of Southern California,Public,2117,245309,304.91,64.32,10.4,20748,63.94,95.95
+"University of California, Los Angeles",Private,48685,111571,319.94,87.41,16.67,40521,93.17,87.86
+Yale University,Private,20935,85510,192.7,63.67,25.42,58530,88.27,70.28
+Princeton University,Private,49077,79426,261.18,98.61,6.68,40642,84.69,84.93
+University of Wisconsin-Madison,Public,15234,97265,212.39,79.54,14.68,21035,66.24,75.14
+"University of California, Los Angeles",Public,40328,208922,43.88,66.03,26.3,29296,79.14,83.03
+"University of California, Los Angeles",Private,2846,126150,224.21,73.7,15.1,44534,91.22,82.98
+Massachusetts Institute of Technology,Public,12954,147312,57.72,76.54,6.94,22855,72.14,79.83
+Yale University,Private,15703,149613,208.46,90.33,18.56,40230,72.47,86.58
+"University of California, Berkeley",Public,48514,134910,300.53,89.74,26.54,12817,60.13,82.89
+Stanford University,Private,24700,112375,293.91,84.48,19.76,42839,66.97,80.46
+University of Washington,Private,34043,181826,334.68,64.24,10.66,37812,95.02,93.46
+University of Chicago,Public,8469,95435,56.68,66.06,14.61,18933,77.67,68.45
+Stanford University,Private,32105,156443,329.54,63.75,16.25,34557,99.37,89.1
+Harvard University,Public,44101,248204,162.95,83.09,19.48,27063,75.83,98.32
+University of Washington,Private,28386,194055,205.53,95.09,23.98,41030,88.61,96.73
+University of Washington,Private,47587,211734,430.41,77.35,7.47,39065,71.28,100.64
+Duke University,Public,38976,83510,14.42,66.43,27.24,15668,74.55,62.35
+University of Michigan,Public,41051,232070,298.32,82.32,5.31,24427,67.63,100.92
+Cornell University,Public,4048,247918,303.37,92.47,14.25,17697,73.88,105.96
+University of Southern California,Private,41001,154071,204.36,89.67,5.69,57251,81.89,91.38
+University of Southern California,Public,14941,66640,126.14,95.26,14.82,17829,99.67,79.33
+University of Wisconsin-Madison,Private,47375,104547,124.99,71.12,18.15,50700,86.57,74.45
+University of Washington,Private,44533,114620,443.02,67.76,17.79,58551,67.97,80.85
+University of Virginia,Public,3828,206389,226.59,95.19,9.14,17352,61.8,96.85
+"University of California, Berkeley",Public,3917,175608,172.14,86.3,21.14,23516,65.05,86.18
+University of Texas at Austin,Private,22618,67564,229.9,72.44,6.12,57794,82.5,74.04
+University of Wisconsin-Madison,Private,34254,218417,338.0,89.69,24.05,58783,90.61,103.12
+Princeton University,Public,41756,173824,81.42,92.6,28.67,18003,97.62,90.09
+Columbia University,Public,49362,139273,230.22,84.6,13.49,13278,60.63,82.61
+Princeton University,Public,22128,134859,298.06,87.52,17.93,17296,80.91,88.02
+Northwestern University,Public,47745,170017,474.81,75.01,14.47,13074,78.83,95.12
+Massachusetts Institute of Technology,Public,2009,183618,133.74,81.55,5.17,23261,86.24,92.23
+California Institute of Technology,Private,18644,243465,186.03,80.97,14.65,50954,82.38,99.94
+Northwestern University,Private,24422,185341,195.89,93.92,24.79,46654,87.48,94.39
+Columbia University,Private,11865,89430,306.71,93.6,19.9,42258,86.32,83.98
+Stanford University,Private,4219,87788,184.8,93.31,7.53,32468,64.68,78.14
+University of Virginia,Public,41809,239615,271.42,60.44,26.18,15103,91.99,95.38
+University of Southern California,Public,7287,204991,393.08,89.98,18.28,27028,64.93,98.87
+Princeton University,Public,36387,129346,355.64,90.35,26.04,12032,87.94,89.56
+University of Washington,Private,10512,156122,228.72,87.14,19.51,45639,76.65,87.85
+Yale University,Private,3342,99974,433.47,90.25,18.99,41546,80.55,87.39
+University of Southern California,Public,45336,167309,283.49,93.68,7.63,28452,96.13,99.41
+"University of California, Berkeley",Public,21216,76371,274.55,78.81,9.18,26625,95.6,80.62
+California Institute of Technology,Private,29534,105084,26.75,80.08,29.3,45523,92.71,73.27
+Duke University,Private,16231,220701,493.48,64.99,10.71,59665,80.41,101.35
+Massachusetts Institute of Technology,Public,34293,242256,70.26,75.42,29.44,25954,89.45,93.07
+Northwestern University,Public,28614,121916,123.25,85.73,18.3,27186,80.52,80.15
+Yale University,Private,38258,133972,35.33,91.22,8.39,40775,94.78,85.8
+Massachusetts Institute of Technology,Public,30253,72984,323.6,68.69,7.48,10195,76.11,74.99
+Stanford University,Public,44078,93039,120.1,65.51,10.22,12187,98.81,74.93
+University of Chicago,Public,42752,145431,98.21,86.52,28.14,21707,97.29,84.55
+University of Michigan,Private,19988,143691,53.39,60.08,15.35,46673,89.66,76.04
+Massachusetts Institute of Technology,Private,33037,118606,60.62,67.13,14.89,54504,71.18,71.01
+Northwestern University,Private,14219,201688,296.49,61.16,12.83,57056,65.27,87.98
+University of Washington,Private,2235,162665,347.22,66.68,8.68,36614,94.19,91.92
+Stanford University,Private,44929,165373,204.72,67.25,17.2,33252,66.61,81.0
+University of Michigan,Private,3908,241144,245.15,75.51,8.25,37415,94.17,103.36
+Massachusetts Institute of Technology,Private,10567,84574,346.12,76.09,25.89,53155,79.63,76.64
+California Institute of Technology,Public,38298,194502,18.52,94.97,14.26,24125,76.26,90.62
+Cornell University,Public,7256,203748,168.33,80.4,14.37,12591,96.13,96.08
+University of Southern California,Public,21019,201888,486.82,88.94,16.85,22127,84.15,105.03
+Yale University,Public,10162,92733,294.25,64.17,16.1,25748,83.06,75.38
+California Institute of Technology,Public,7415,62050,134.57,69.02,29.87,16121,82.35,64.55
+Yale University,Public,38159,169996,265.65,88.12,18.63,11200,74.85,91.15
+Cornell University,Public,45925,93933,177.9,62.11,7.21,25721,91.43,74.9
+University of Pennsylvania,Private,7951,84951,270.8,79.46,20.17,34776,70.11,74.69
+Northwestern University,Private,23852,92413,71.61,83.97,8.79,47208,97.56,78.96
+University of Southern California,Public,10007,225873,75.03,84.09,5.77,16972,95.76,99.36
+University of Pennsylvania,Public,43832,246691,80.34,60.92,29.27,10136,73.5,86.54
+Columbia University,Private,32523,223985,470.51,72.88,24.34,44901,89.18,102.55
+University of Southern California,Public,25325,172573,369.12,85.46,29.5,25346,82.93,93.28
+University of Pennsylvania,Public,23204,231672,89.57,65.96,16.95,28978,73.51,88.54
+Harvard University,Private,17524,248847,102.29,87.82,18.31,58472,99.54,102.99
+Princeton University,Public,21282,226472,368.11,89.84,9.21,12472,61.01,102.33
+Columbia University,Private,25930,195566,86.52,99.28,11.17,57303,70.11,93.5
+Harvard University,Public,2077,182744,124.94,68.39,25.96,20704,80.8,82.64
+University of Washington,Private,42345,149431,482.04,93.01,13.9,43926,80.88,98.17
+Yale University,Private,22611,103001,135.1,80.81,25.67,49540,83.56,75.32
+"University of California, Los Angeles",Private,18984,127364,334.2,74.94,22.73,41580,90.07,85.08
+University of Wisconsin-Madison,Public,16060,184988,489.53,64.9,9.43,16968,84.94,97.01
+Duke University,Private,19449,105028,193.41,89.42,17.69,35634,84.01,81.65
+Yale University,Public,20520,228645,18.58,69.43,21.93,23596,62.14,83.73
+"University of California, Berkeley",Public,45303,191878,129.63,74.86,10.88,11700,75.06,87.96
+"University of California, Berkeley",Public,11510,184343,417.13,62.5,25.77,12700,69.28,87.62
+Harvard University,Public,31287,247710,433.66,92.05,18.62,21821,70.61,108.18
+University of Texas at Austin,Private,30173,188301,386.57,90.66,9.13,40179,82.17,101.65
+University of Michigan,Private,41711,186295,65.42,89.34,19.57,42251,67.98,86.39
+Princeton University,Public,13954,220829,399.8,71.98,29.99,21510,71.76,95.07
+Columbia University,Public,9804,94636,460.15,66.94,8.76,13687,69.48,80.23
+Princeton University,Private,8565,239352,304.3,85.5,25.42,50466,97.94,105.19
+Columbia University,Public,7984,84262,471.03,79.85,10.18,18837,97.79,88.25
+Yale University,Private,23526,140435,415.15,67.13,24.56,57374,84.4,85.63
+University of Washington,Public,39438,245914,336.82,87.44,23.36,21281,96.98,107.95
+Stanford University,Public,20574,188583,292.82,99.65,12.51,23917,91.43,102.75
+Harvard University,Private,11184,248051,180.8,89.89,13.15,52412,83.6,103.69
+Cornell University,Public,21096,229269,88.05,89.6,24.81,23045,60.26,91.0
+University of Texas at Austin,Private,4192,101844,306.43,98.01,16.54,48233,90.9,88.74
+"University of California, Berkeley",Public,36016,124754,165.87,68.12,23.27,14733,88.1,77.09
+University of Washington,Public,13246,225229,434.55,82.62,8.7,17081,84.61,106.79
+Yale University,Public,47558,137129,496.74,99.19,26.31,18690,90.42,98.05
+"University of California, Berkeley",Private,20381,100042,378.69,66.61,22.77,43156,80.52,77.9
+Harvard University,Public,38455,121665,54.34,88.01,27.67,24318,88.16,78.38
+"University of California, Berkeley",Public,28727,176953,151.46,83.43,8.31,21171,97.41,93.94
+University of Texas at Austin,Public,6018,218448,63.46,83.46,19.83,23545,75.03,90.75
+University of Southern California,Public,13302,246626,328.75,87.91,19.98,21803,88.32,106.9
+California Institute of Technology,Private,3970,205271,384.94,97.18,13.84,50975,79.03,104.53
+"University of California, Berkeley",Private,43157,178533,463.58,91.3,16.46,33450,86.98,102.18
+Harvard University,Public,29202,242020,224.7,62.25,5.95,25093,90.52,98.63
+University of Texas at Austin,Private,33110,133781,451.67,94.11,23.65,50195,61.82,89.48
+California Institute of Technology,Public,19586,126262,440.17,69.02,18.73,24453,85.86,86.28
+Princeton University,Public,26519,106600,165.43,75.08,6.44,22174,69.07,76.0
+Columbia University,Public,33273,136898,435.76,78.47,22.02,13453,86.8,90.1
+University of Southern California,Private,23951,209369,194.08,79.24,16.67,35141,78.73,93.41
+University of Southern California,Private,17374,90448,155.47,77.41,5.86,58884,90.94,78.47
+University of Michigan,Private,7788,86172,328.05,97.49,29.24,54885,64.94,79.15
+University of Pennsylvania,Private,7408,233946,170.91,88.24,28.73,32708,85.05,97.96
+University of Wisconsin-Madison,Private,27053,67657,318.8,85.25,17.82,48375,71.14,75.95
+Princeton University,Private,11446,216497,308.82,61.99,7.34,45088,94.12,97.69
+Duke University,Private,2922,217757,286.09,96.16,23.87,54847,97.14,104.75
+University of Virginia,Private,35187,172855,196.41,96.38,17.3,41834,99.86,97.25
+Massachusetts Institute of Technology,Private,12789,215650,278.76,91.21,12.56,42278,91.84,103.93
+University of Texas at Austin,Public,34184,219903,302.28,60.28,17.29,12242,90.15,94.71
+Princeton University,Private,3120,67906,277.39,62.29,18.06,33273,68.62,67.31
+University of Pennsylvania,Private,46028,121413,227.77,69.01,19.07,44367,73.44,76.62
+University of Southern California,Private,34154,114028,17.19,65.25,16.03,34538,78.63,69.71
+"University of California, Los Angeles",Private,19334,67287,297.66,75.95,20.14,42541,90.94,75.97
+Massachusetts Institute of Technology,Private,4336,93660,92.54,96.9,27.97,38712,96.6,79.62
+University of Pennsylvania,Private,40141,120504,324.86,78.88,14.06,39168,67.57,82.19
+Princeton University,Private,4243,162979,382.08,60.54,23.14,50106,96.89,88.82
+University of Wisconsin-Madison,Private,21029,94701,255.22,71.31,27.36,33551,87.82,75.35
+Stanford University,Private,34265,143300,275.76,61.78,16.4,42297,84.43,81.91
+University of Michigan,Private,39380,208746,476.22,61.45,16.09,40965,67.99,94.41
+University of Pennsylvania,Private,48714,143560,425.11,71.03,20.05,57128,62.22,84.03
+University of Chicago,Public,45872,214946,457.98,71.02,19.79,10204,82.74,99.88
+University of Washington,Public,48197,103642,408.75,91.49,25.16,20799,86.06,87.44
+University of Washington,Private,25710,125160,63.37,98.99,16.91,52063,68.43,80.68
+University of Virginia,Private,31486,77602,83.01,74.85,29.9,52963,82.26,67.06
+"University of California, Los Angeles",Public,8371,163320,268.05,77.16,6.49,21164,94.26,93.24
+Princeton University,Private,8359,148801,130.57,93.79,5.08,30152,93.4,92.04
+Harvard University,Public,42631,85931,243.58,70.73,21.0,29071,97.09,76.63
+Harvard University,Public,37996,154377,203.24,66.26,12.46,25641,74.64,81.57
+University of Virginia,Public,22103,89192,279.21,94.12,11.01,16160,72.72,82.33
+University of Pennsylvania,Public,16382,106542,375.97,61.86,12.8,25810,89.98,81.25
+Columbia University,Public,20755,187015,360.59,84.79,11.4,15126,77.24,97.47
+"University of California, Berkeley",Private,37659,102520,265.4,82.48,5.77,39944,63.5,79.63
+Princeton University,Public,5756,124772,412.97,73.84,29.29,23414,71.31,81.66
+University of Chicago,Private,22609,249834,221.12,72.61,10.52,42067,76.74,99.14
+Yale University,Private,18478,110106,449.39,90.87,23.35,31104,71.7,86.93
+Columbia University,Public,37442,141121,44.93,63.46,24.06,13645,73.29,71.4
+University of Texas at Austin,Public,41666,85559,477.78,69.47,28.23,22816,71.75,76.71
+Harvard University,Private,12147,165595,330.8,89.3,5.76,59783,61.66,92.73
+University of Wisconsin-Madison,Public,35561,93742,196.24,81.93,26.8,28172,85.48,76.26
+University of Michigan,Public,36884,129669,106.61,65.12,18.18,17374,83.89,75.33
+University of Washington,Private,7779,212826,244.8,95.29,20.81,50238,86.14,100.92
+University of Southern California,Private,14298,195044,105.33,75.74,21.11,37263,67.69,84.45
+Columbia University,Public,16153,130831,91.5,93.11,25.49,25129,71.83,79.57
+University of Virginia,Private,45879,172217,312.5,91.51,13.34,31914,84.78,96.95
+Duke University,Public,12789,101873,266.31,84.98,23.33,13893,83.99,80.9
+Duke University,Public,46165,166532,338.35,79.78,18.21,16811,80.25,91.47
+University of Virginia,Public,14999,186267,465.51,99.18,24.83,19288,74.02,101.5
+University of Washington,Private,2814,200975,270.81,65.8,29.76,30406,96.52,91.36
+Princeton University,Private,12541,194092,294.66,89.01,10.02,43689,73.59,97.37
+Stanford University,Private,26938,101755,53.92,67.65,29.87,30166,78.22,66.85
+"University of California, Berkeley",Private,4443,145956,361.64,73.53,7.25,30508,87.12,90.78
+Duke University,Private,12457,146988,205.95,72.35,5.06,48045,81.72,85.26
+University of Texas at Austin,Public,12380,105648,488.6,97.88,6.1,21186,73.88,93.43
+Duke University,Public,9783,185991,413.36,98.69,13.54,16773,77.43,102.68
+Duke University,Public,46241,200588,266.02,67.32,20.82,13816,91.78,92.46
+Duke University,Public,19368,175005,70.38,60.88,6.73,10717,71.13,79.51
+Stanford University,Private,17328,62396,431.11,88.8,5.14,48908,65.69,81.04
+Stanford University,Public,28215,144082,401.89,76.72,28.43,14434,72.53,85.5
+University of Texas at Austin,Private,35595,210201,100.45,63.55,25.55,51644,93.98,87.29
+Harvard University,Public,29306,188322,154.69,87.35,25.23,15057,63.56,86.76
+Harvard University,Private,21915,192663,398.77,81.8,27.11,34357,99.67,99.91
+University of Wisconsin-Madison,Private,41915,71303,100.76,99.22,22.5,31363,81.64,75.31
+Stanford University,Public,39219,221633,459.7,69.1,7.61,13764,99.39,106.12
+University of Washington,Public,17343,131719,218.02,76.16,14.98,21181,97.56,85.66
+University of Chicago,Public,48403,159616,52.65,81.7,23.08,14637,78.11,81.04
+Massachusetts Institute of Technology,Public,40727,184165,409.72,91.67,12.01,12104,67.94,98.6
+"University of California, Los Angeles",Private,2126,146231,193.02,81.95,22.19,54126,66.6,81.19
+Duke University,Public,29632,67314,267.98,84.52,5.61,20674,69.6,76.29
+University of Chicago,Public,43563,79623,65.03,69.05,12.65,28991,88.41,69.76
+University of Texas at Austin,Private,46409,165228,11.27,93.88,18.73,48287,70.92,83.72
+University of Virginia,Public,22530,224202,322.61,77.15,20.8,21999,73.66,97.03
+Stanford University,Public,41964,242828,262.44,65.64,19.43,13719,77.95,95.69
+University of Chicago,Public,46327,157624,300.83,86.57,22.44,12581,96.53,93.46
+"University of California, Los Angeles",Public,5368,217364,398.93,68.64,5.15,28949,67.58,97.65
+Cornell University,Public,5797,171785,326.84,63.9,7.52,12763,60.2,85.28
+Cornell University,Private,49882,146206,95.64,94.48,26.72,42112,62.4,80.28
+Harvard University,Public,15718,129274,186.78,78.41,22.04,20531,96.19,83.35
+Columbia University,Public,36560,193541,453.89,89.97,7.82,29790,85.9,105.25
+University of Chicago,Public,13053,113947,387.27,71.62,26.05,21064,70.92,79.17
+Cornell University,Public,24116,213606,282.75,91.48,11.06,21312,67.09,99.17
+"University of California, Berkeley",Public,38244,108874,135.27,64.48,16.96,14780,71.77,70.7
+University of Virginia,Private,38185,109708,158.01,74.24,8.63,31151,64.59,74.66
+Massachusetts Institute of Technology,Public,3645,134553,368.66,99.12,22.75,25169,97.66,95.96
+University of Wisconsin-Madison,Private,49523,128344,427.08,91.76,21.67,36033,91.37,93.53
+"University of California, Berkeley",Private,21256,109138,339.0,79.89,10.28,38560,78.5,84.15
+University of Wisconsin-Madison,Public,37840,245374,406.67,73.59,26.59,12382,94.6,104.69
+University of Virginia,Public,36622,107638,385.66,94.89,15.03,26915,69.98,87.17
+Princeton University,Public,39430,138249,83.35,81.79,12.31,22508,88.68,83.05
+University of Virginia,Public,41282,165865,217.73,90.34,8.81,10634,94.25,95.6
+Columbia University,Private,4708,62719,84.96,90.16,11.65,48919,74.27,71.53
+Harvard University,Public,13694,213962,125.27,60.72,5.55,24162,90.3,91.02
+Yale University,Public,11524,227581,435.94,65.05,19.58,26386,71.8,97.17
+Princeton University,Public,33880,102534,241.72,86.39,26.06,24005,71.95,77.73
+Northwestern University,Public,41224,152241,272.33,66.46,18.72,18397,64.28,80.06
+Yale University,Public,38980,209859,97.44,70.22,10.48,22327,77.6,88.89
+Harvard University,Public,34409,186209,163.01,97.87,5.84,24394,89.19,98.85
+"University of California, Los Angeles",Private,15224,239917,122.82,82.41,10.37,43046,97.61,101.84
+Northwestern University,Private,42738,249004,111.03,90.03,15.4,44211,84.15,101.44
+University of Michigan,Public,27150,152124,322.6,82.32,23.99,18026,94.53,91.3
+"University of California, Berkeley",Public,36393,151659,135.87,82.1,9.7,13306,92.9,88.09
+Princeton University,Public,45082,224134,319.69,63.77,22.99,10897,66.93,91.13
+Cornell University,Private,9973,135713,38.64,73.75,26.67,50306,79.43,74.19
+Cornell University,Public,10577,135418,79.47,71.3,16.35,19471,64.68,73.75
+University of Virginia,Private,10070,188232,144.52,75.63,25.54,53416,87.29,87.61
+Duke University,Public,10666,225904,302.55,91.93,18.87,25240,98.0,106.37
+Stanford University,Public,38368,223038,341.16,74.88,20.93,24683,65.48,95.06
+Harvard University,Public,8783,204059,226.93,78.07,18.16,10670,89.36,95.08
+Cornell University,Public,47994,228383,228.44,75.9,16.58,27889,85.29,97.62
+University of Washington,Private,43914,91575,365.01,63.74,10.87,48624,83.34,78.3
+University of Texas at Austin,Private,6971,123852,17.75,77.64,12.58,47860,75.6,75.01
+University of Texas at Austin,Public,15490,192079,177.13,67.82,12.25,25768,74.21,86.86
+Columbia University,Public,47719,136242,411.17,67.47,19.08,26633,61.81,81.56
+Columbia University,Private,47080,238589,305.58,63.76,8.0,30389,68.72,96.23
+"University of California, Berkeley",Private,3990,89257,175.24,74.27,27.92,30999,60.61,67.46
+University of Wisconsin-Madison,Private,7299,233279,453.71,90.3,23.02,42812,83.26,107.74
+Cornell University,Private,47765,204353,388.59,71.06,15.04,45599,64.23,93.47
+Cornell University,Public,21956,121246,139.8,72.49,8.97,21763,94.92,81.32
+"University of California, Berkeley",Private,24359,61435,326.19,85.71,27.05,38125,80.93,75.49
+University of Virginia,Public,48240,151357,301.92,67.83,25.59,18235,87.99,84.59
+Harvard University,Private,39148,217732,206.58,95.88,23.04,55234,76.43,98.3
+University of Virginia,Private,30734,196156,189.81,80.81,11.79,32763,82.42,93.49
+"University of California, Los Angeles",Private,6757,204579,178.34,77.9,15.06,50047,97.71,95.94
+Duke University,Private,21097,143807,312.41,82.31,7.57,34986,63.31,86.78
+Yale University,Private,12395,236611,226.78,66.64,9.73,31481,70.16,94.37
+Massachusetts Institute of Technology,Public,18241,175953,417.61,84.54,24.58,12972,91.2,97.61
+University of Chicago,Public,40356,198563,338.11,74.52,22.88,21705,63.95,90.5
+Yale University,Private,29696,241264,44.27,95.89,19.84,53646,63.03,94.92
+University of Virginia,Private,6944,183797,323.68,66.75,27.39,46835,74.46,86.72
+"University of California, Berkeley",Public,48163,123888,142.86,80.28,19.58,27374,63.69,75.78
+Cornell University,Private,21816,133609,300.48,83.92,16.67,57798,83.4,87.58
+"University of California, Berkeley",Private,39011,69077,343.26,61.34,13.51,56113,69.05,70.17
+Northwestern University,Public,26917,80953,123.11,74.55,28.51,25935,95.83,71.67
+California Institute of Technology,Private,33195,174682,233.86,89.31,7.07,47266,91.34,96.87
+Northwestern University,Private,23566,127889,103.26,92.82,28.27,50792,87.99,82.07
+Stanford University,Public,11916,214893,35.65,72.53,25.67,21748,84.68,86.86
+"University of California, Berkeley",Public,22806,228639,195.45,91.94,8.25,29275,94.54,105.0
+Cornell University,Public,11984,175374,187.84,98.71,19.12,13516,68.92,91.51
+Columbia University,Private,3759,84860,497.79,94.27,26.66,49661,94.92,89.6
+Massachusetts Institute of Technology,Public,43949,212267,228.71,64.71,19.3,16410,91.58,92.57
+Harvard University,Public,28838,137475,173.45,89.59,27.68,10053,89.93,85.15
+Massachusetts Institute of Technology,Public,4482,147266,294.43,72.79,28.57,28959,82.45,83.54
+Harvard University,Public,26442,212499,53.5,99.54,15.56,26999,69.85,94.2
+California Institute of Technology,Public,35719,160732,481.22,79.41,14.43,15944,76.94,94.87
+Cornell University,Public,29965,87083,321.13,64.9,28.41,17404,91.74,74.83
+University of Virginia,Private,4079,117372,379.87,89.01,21.88,51074,61.27,83.58
+Yale University,Private,4717,183786,93.53,72.92,7.9,41442,91.28,88.93
+Princeton University,Public,29952,235136,210.64,99.88,6.06,11629,69.6,104.26
+"University of California, Berkeley",Public,22908,67813,217.12,99.19,19.12,20973,65.77,75.77
+Duke University,Public,44460,91598,412.69,86.25,28.25,16859,64.63,79.27
+Harvard University,Private,26861,153106,10.61,65.19,26.11,46199,61.09,69.84
+Cornell University,Private,9311,87082,157.42,87.47,21.9,37291,80.94,75.83
+University of Washington,Private,30071,89241,490.81,63.72,8.48,38160,68.73,79.28
+University of Wisconsin-Madison,Private,25570,235641,242.69,61.17,11.36,30112,99.58,98.62
+California Institute of Technology,Private,20449,71745,197.44,92.92,26.89,51515,82.98,75.78
+University of Chicago,Private,35536,86029,68.72,68.39,9.57,49581,65.52,66.67
+University of Chicago,Private,40258,204097,487.34,75.16,11.96,45924,87.55,102.9
+University of Pennsylvania,Private,30865,183395,19.81,98.94,8.24,56954,95.91,95.32
+University of Wisconsin-Madison,Private,8645,205360,371.22,73.47,21.9,56500,89.81,97.56
+Yale University,Public,40000,149186,386.61,71.86,28.6,22945,63.06,82.43
+Stanford University,Public,28737,197612,129.39,96.73,11.72,17485,95.84,99.37
+Harvard University,Public,13485,157768,339.06,64.43,16.89,23680,91.76,88.14
+University of Southern California,Public,40565,101846,55.54,90.38,20.86,26767,66.33,73.15
+Harvard University,Private,27522,135932,135.95,99.52,29.99,55092,62.07,80.74
+University of Texas at Austin,Private,14342,208554,396.07,96.05,7.62,40808,82.29,106.91
+Cornell University,Public,42806,83411,433.7,86.07,17.46,14334,66.24,81.1
+University of Wisconsin-Madison,Private,15087,242047,308.16,72.56,14.63,36989,93.38,103.07
+Massachusetts Institute of Technology,Public,39641,138797,258.35,70.17,26.65,22226,74.33,79.16
+"University of California, Berkeley",Private,36249,112307,88.06,92.77,16.9,36261,96.52,83.24
+Duke University,Public,12093,194165,40.92,95.19,7.77,25020,82.63,93.88
+Duke University,Private,49190,82042,67.65,81.02,20.86,49488,67.31,67.93
+University of Washington,Private,18438,112930,121.41,69.77,24.27,46433,65.58,69.77
+California Institute of Technology,Public,42411,235485,177.42,64.52,5.07,26140,83.06,95.6
+University of Chicago,Private,28399,157883,196.65,63.49,26.47,49944,90.48,81.43
+"University of California, Berkeley",Public,21846,93756,179.7,88.76,9.65,29299,91.26,82.4
+Columbia University,Public,17708,113268,127.14,76.8,18.8,17957,71.03,74.29
+University of Texas at Austin,Public,46039,230286,259.76,96.21,15.39,29430,68.17,101.75
+Duke University,Public,47368,219674,414.39,89.59,22.99,25796,60.67,99.8
+California Institute of Technology,Private,12998,244403,147.05,67.65,14.28,56049,87.17,95.94
+"University of California, Berkeley",Private,49063,108901,471.77,84.55,26.74,42253,63.06,83.12
+Harvard University,Private,32678,159986,437.93,77.42,23.26,48990,76.83,91.08
+University of Virginia,Public,12682,223268,89.26,83.09,21.19,14933,84.07,93.67
+Harvard University,Private,10519,188386,395.28,89.52,24.91,55027,97.48,101.49
+"University of California, Berkeley",Public,33480,65626,291.55,92.25,23.85,26377,72.47,75.99
+Northwestern University,Private,21694,198496,287.62,93.75,5.9,43452,69.99,99.35
+University of Michigan,Private,5300,72857,201.61,70.16,14.87,43395,86.17,72.28
+"University of California, Berkeley",Private,8722,211054,255.56,61.24,28.27,33765,84.77,89.0
+Yale University,Public,41986,193052,204.62,89.57,8.14,13748,73.28,95.0
+California Institute of Technology,Private,26160,239362,274.47,64.25,23.43,45950,97.12,98.15
+Northwestern University,Private,22059,86431,317.7,72.6,29.36,42502,93.79,77.16
+University of Southern California,Public,37822,144976,340.41,60.15,6.3,11093,68.96,82.54
+Stanford University,Private,15575,142711,270.92,87.27,22.05,52742,69.57,85.22
+University of Michigan,Public,9970,86385,363.5,66.69,16.7,26034,80.49,76.63
+Stanford University,Private,36911,229230,79.23,86.21,19.48,54703,90.94,96.92
+Duke University,Public,23591,214091,113.87,99.67,7.13,19732,61.76,96.36
+Yale University,Public,33821,78639,411.18,62.91,6.08,29259,87.73,79.33
+Harvard University,Private,11503,145530,168.04,63.08,21.67,34855,85.93,78.65
+Columbia University,Public,49917,81563,21.22,73.62,25.58,28221,69.26,63.69
+"University of California, Los Angeles",Public,20922,230413,85.36,94.66,24.55,10689,87.25,98.06
+Cornell University,Public,14175,175672,119.57,68.62,18.6,12103,97.61,86.33
+Princeton University,Public,43124,196848,479.09,74.42,7.5,10365,61.87,97.1
+University of Michigan,Public,23389,227516,290.79,62.74,22.2,24010,72.79,91.79
+"University of California, Berkeley",Public,49838,199783,467.04,90.53,11.05,21767,77.53,104.43
+Northwestern University,Private,2822,142970,291.83,76.33,27.78,50840,95.97,86.74
+University of Pennsylvania,Public,19327,145553,244.88,90.37,25.96,22742,98.49,90.8
+Princeton University,Public,49057,221779,163.73,96.14,22.73,22391,77.76,98.03
+Massachusetts Institute of Technology,Private,8150,230182,307.12,69.31,28.72,52745,90.0,96.79
+University of Pennsylvania,Private,6425,142879,78.21,92.3,5.79,52077,81.27,86.56
+University of Virginia,Private,18032,229899,450.15,62.36,23.41,35788,81.51,98.32
+Harvard University,Private,4198,196727,416.37,95.95,13.26,30201,71.12,102.36
+Yale University,Private,22079,104859,165.59,86.03,27.65,52544,68.68,74.71
+California Institute of Technology,Private,38220,244697,476.87,94.97,11.67,40561,71.52,111.47
+Cornell University,Private,43874,112098,414.35,60.01,23.12,46901,82.25,79.07
+California Institute of Technology,Public,15859,206323,336.49,66.76,26.94,19867,61.17,87.92
+University of Washington,Public,33419,182413,69.66,75.59,6.04,18490,96.29,90.18
+University of Wisconsin-Madison,Private,10705,60526,244.33,75.18,14.94,59352,66.25,69.22
+University of Southern California,Public,44880,128760,257.99,69.07,24.06,19306,68.8,76.72
+Stanford University,Public,25236,107837,123.95,75.26,16.37,16623,80.73,75.34
+Stanford University,Public,24419,71536,49.18,65.15,11.68,24908,88.4,67.09
+University of Wisconsin-Madison,Private,21978,88541,390.59,76.51,10.5,59096,63.83,78.62
+Duke University,Private,39609,139083,69.8,92.09,8.29,44256,72.71,83.47
+University of Virginia,Public,17358,242099,301.2,79.16,26.43,23986,98.75,103.56
+University of Michigan,Private,36177,94531,468.86,60.72,19.38,52192,70.49,76.68
+University of Chicago,Public,31378,68712,439.29,76.86,6.91,29212,72.52,79.67
+University of Southern California,Public,39334,164101,146.1,61.09,14.56,12850,93.46,83.11
+"University of California, Los Angeles",Public,13382,125455,427.21,98.65,14.19,23299,62.01,90.79
+University of Texas at Austin,Public,16596,134744,10.16,65.1,9.54,20698,78.58,73.85
+Harvard University,Private,35572,189749,18.67,88.31,15.89,43065,75.18,87.37
+Yale University,Private,15221,65109,305.25,98.91,13.3,52625,72.66,80.47
+University of Washington,Private,3279,109268,188.75,93.04,13.55,44114,71.43,81.54
+University of Washington,Public,47960,114615,199.37,87.97,23.48,26285,63.65,77.6
+University of Texas at Austin,Private,9083,142503,286.58,93.58,10.58,35633,72.59,90.45
+Princeton University,Public,45861,220831,103.97,99.27,21.05,16644,61.72,94.16
+Massachusetts Institute of Technology,Private,19771,145708,113.76,84.85,19.27,40825,91.24,85.12
+University of Chicago,Public,31975,162471,247.45,82.37,19.2,24933,75.93,87.85
+University of Pennsylvania,Public,47648,217661,379.58,85.13,21.58,10165,77.76,100.81
+University of Virginia,Public,21063,221087,313.55,81.31,18.71,20701,95.74,102.37
+University of Southern California,Private,4106,220081,155.7,85.4,26.98,57942,86.32,95.17
+"University of California, Berkeley",Private,26557,143309,220.87,77.99,21.89,58890,60.32,79.21
+Yale University,Private,22607,186446,93.63,68.74,18.67,59340,97.73,87.21
+University of Virginia,Private,39599,166661,46.57,64.81,25.74,31518,69.49,74.59
+Cornell University,Public,30529,217215,393.52,62.73,20.15,25715,64.3,92.04
+University of Pennsylvania,Private,37954,66154,140.04,70.53,12.28,46346,90.73,70.97
+Northwestern University,Private,29856,212876,97.11,61.84,10.18,32600,80.02,87.36
+University of Michigan,Public,4573,232760,348.89,82.69,8.81,21618,77.35,103.9
+University of Wisconsin-Madison,Public,14808,124288,312.85,71.35,27.49,23519,69.98,77.93
+Duke University,Public,37367,111195,320.26,92.98,22.75,20776,81.9,86.01
+University of Wisconsin-Madison,Private,38801,80581,122.16,62.97,28.43,59267,70.98,63.15
+University of Texas at Austin,Public,43196,243720,124.0,69.05,20.08,19788,96.06,96.19
+Columbia University,Public,36072,90087,118.19,89.21,16.84,15660,68.61,74.18
+University of Washington,Public,25752,241002,95.14,83.95,6.49,14478,95.37,101.97
+Harvard University,Private,19685,224053,331.3,62.58,21.79,49233,82.38,94.44
+Harvard University,Public,43401,129298,425.53,95.09,19.56,20922,93.14,95.4
+University of Southern California,Private,13372,106167,364.92,95.09,29.76,46194,88.51,87.15
+Stanford University,Private,10996,234480,398.13,73.22,10.98,59829,87.87,104.46
+Cornell University,Public,18458,99499,208.35,73.62,18.27,17082,72.97,74.2
+Yale University,Public,33889,185816,330.5,99.56,21.27,15395,69.36,97.27
+University of Pennsylvania,Private,28665,243341,183.58,85.05,21.11,33849,68.44,96.99
+Harvard University,Public,40243,229631,267.5,81.25,19.03,28642,94.29,101.9
+Cornell University,Public,33653,156347,246.0,93.53,24.42,21094,92.82,92.57
+Princeton University,Private,28657,108787,96.67,71.41,10.12,53903,77.62,74.14
+University of Texas at Austin,Private,41952,95488,199.67,77.17,23.14,59231,65.3,71.9
+"University of California, Berkeley",Public,24180,134441,482.27,70.71,20.49,23281,75.29,86.81
+University of Washington,Private,33896,82431,131.8,91.57,27.4,34195,84.77,75.26
+Cornell University,Public,14875,121681,75.56,82.93,26.18,28971,78.18,75.8
+University of Wisconsin-Madison,Public,3622,182720,215.1,86.35,12.88,13262,91.21,95.43
+University of Texas at Austin,Public,42809,109153,397.27,70.09,11.91,27722,99.9,86.92
+California Institute of Technology,Private,18725,66368,295.25,68.81,29.54,59084,67.65,67.08
+University of Texas at Austin,Public,42760,218496,343.68,79.53,18.18,21826,78.39,98.99
+University of Southern California,Public,17646,172360,102.95,89.5,27.66,12827,77.24,85.71
+Duke University,Public,19029,236076,313.28,81.01,9.1,24211,72.18,101.73
+California Institute of Technology,Private,31402,172755,168.52,61.31,21.07,39369,67.92,78.73
+University of Virginia,Private,6263,116985,418.81,94.74,25.25,44296,62.63,86.01
+University of Texas at Austin,Private,32987,110069,318.36,62.59,28.68,52793,95.48,78.2
+University of Washington,Private,48828,112326,107.44,98.23,13.43,59492,76.79,82.21
+Cornell University,Private,49924,168737,41.66,61.01,23.12,45438,79.88,76.22
+Cornell University,Public,10646,214470,30.89,87.78,18.47,29345,96.68,95.07
+Princeton University,Private,29529,110861,191.99,63.29,6.52,34757,91.05,78.28
+Massachusetts Institute of Technology,Private,13664,135897,140.27,96.43,22.25,32994,65.22,82.12
+Harvard University,Private,37737,187118,326.58,78.58,22.25,55135,82.62,93.51
+University of Texas at Austin,Public,37796,128577,254.67,65.5,28.27,17031,77.69,76.46
+University of Michigan,Private,26027,69078,140.35,73.63,17.43,45226,91.89,71.55
+University of Texas at Austin,Private,31373,216075,83.13,66.59,10.76,31271,88.97,90.52
+Massachusetts Institute of Technology,Public,38397,122768,72.33,66.82,6.11,13414,87.62,76.93
+Stanford University,Private,22609,111047,433.68,97.92,15.39,57491,73.62,90.69
+University of Virginia,Public,37835,131626,129.3,77.81,12.55,10570,92.2,82.9
+University of Michigan,Public,40709,117660,329.34,91.55,24.03,29288,62.1,82.61
+University of Wisconsin-Madison,Public,21250,240858,407.24,85.58,13.86,23288,66.38,104.52
+Harvard University,Public,23172,192997,310.9,87.06,28.73,28889,73.42,93.33
+University of Texas at Austin,Public,13555,177832,431.19,65.27,29.06,10917,63.07,85.99
+University of Pennsylvania,Private,23874,190406,202.27,69.37,20.52,57504,69.4,85.22
+Massachusetts Institute of Technology,Public,15081,185150,478.55,91.47,28.22,16982,93.21,102.57
+Cornell University,Public,26063,217087,75.24,98.83,24.02,16336,97.93,99.25
+Cornell University,Private,8819,93320,60.05,70.51,18.67,43318,72.18,67.65
+Stanford University,Public,27712,124881,332.76,70.86,9.51,26999,70.58,82.19
+Duke University,Private,26762,150827,471.99,78.92,16.46,53688,71.2,91.41
+University of Virginia,Private,13046,162215,406.35,99.35,19.02,53715,71.11,96.75
+University of Washington,Private,33463,217361,47.44,70.76,26.6,30082,61.44,82.22
+Northwestern University,Public,30769,194461,146.89,76.28,17.03,21667,97.08,92.47
+"University of California, Berkeley",Public,25150,216755,465.86,95.66,27.44,14529,68.55,103.41
+Harvard University,Public,4711,204701,134.0,60.12,21.86,27519,76.8,83.75
+Harvard University,Private,6853,121550,392.77,61.59,8.42,41336,60.39,78.89
+University of Wisconsin-Madison,Public,31077,84826,414.31,84.16,29.87,18566,94.32,83.29
+"University of California, Los Angeles",Public,25863,160734,252.77,96.3,18.18,17226,89.25,94.8
+University of Texas at Austin,Public,23792,217702,199.31,69.55,14.8,15162,97.87,96.11
+University of Washington,Private,42483,237235,230.56,78.79,21.48,53455,91.26,100.1
+"University of California, Berkeley",Private,10942,158511,121.21,78.02,7.72,54351,72.55,83.78
+Harvard University,Public,3762,71653,445.8,78.92,20.91,11141,69.91,77.6
+Harvard University,Public,33987,219033,230.8,84.9,17.46,14627,87.91,99.34
+Yale University,Public,17850,141941,442.41,78.79,15.17,24501,74.56,90.08
+University of Michigan,Public,14112,93662,61.79,77.9,28.83,12690,82.65,70.04
+"University of California, Los Angeles",Private,26058,158818,494.25,78.97,18.06,46753,60.25,90.78
+University of Washington,Private,47420,247518,227.2,83.63,10.48,48202,62.48,99.43
+University of Pennsylvania,Private,40890,212360,33.44,81.48,16.47,48485,81.41,90.29
+University of Washington,Private,2481,155081,28.63,94.17,27.98,42977,82.64,83.3
+California Institute of Technology,Public,49304,96877,375.64,61.98,9.4,29404,90.06,80.53
+Stanford University,Public,34921,171562,332.93,93.33,10.35,28241,65.28,94.71
+University of Wisconsin-Madison,Public,42385,206385,403.04,93.76,5.33,29173,80.53,106.22
+Northwestern University,Private,3524,132715,61.63,71.4,5.35,47748,67.78,75.66
+"University of California, Berkeley",Public,36888,201398,27.43,78.51,25.73,21413,63.73,82.19
+Duke University,Private,17048,170091,259.2,77.54,23.3,59038,76.42,87.18
+Yale University,Private,37111,192632,199.92,68.74,13.88,57918,66.53,86.04
+University of Michigan,Public,39904,139148,236.35,75.87,22.46,15021,68.87,80.01
+Stanford University,Public,36008,143186,495.88,61.78,14.88,28771,72.7,86.45
+University of Wisconsin-Madison,Public,2060,217817,485.67,71.11,28.82,16582,70.38,96.89
+Columbia University,Private,11130,222962,471.73,92.67,29.18,54648,63.5,102.26
+Princeton University,Public,20023,211094,394.08,71.38,14.82,23117,63.6,94.66
+Massachusetts Institute of Technology,Private,47080,183629,183.87,92.73,26.36,32962,67.73,89.15
+Northwestern University,Public,15350,243651,211.94,81.26,24.33,27359,62.02,94.82
+University of Pennsylvania,Private,26354,130316,279.31,95.19,12.75,30859,85.06,90.95
+"University of California, Los Angeles",Private,47186,88380,416.96,82.99,10.8,42048,71.49,82.8
+Massachusetts Institute of Technology,Public,30145,170198,43.67,61.19,16.46,13327,71.19,76.14
+Massachusetts Institute of Technology,Private,36020,62356,217.91,87.02,24.53,32424,73.28,71.75
+University of Michigan,Private,22587,130326,50.48,61.79,29.0,55640,86.51,71.1
+University of Texas at Austin,Public,43131,152447,262.18,78.02,24.09,27641,94.83,88.29
+Columbia University,Private,11650,174994,450.46,97.18,26.38,34017,90.36,101.71
+"University of California, Berkeley",Public,21933,80049,393.42,66.61,20.08,24062,89.1,77.6
+Duke University,Private,22581,165361,121.64,75.59,25.89,58327,79.38,81.83
+"University of California, Berkeley",Public,25393,76082,488.24,89.19,24.61,16774,87.75,85.44
+Cornell University,Public,25051,60661,337.0,95.29,14.42,25160,82.11,81.33
+Massachusetts Institute of Technology,Private,28212,228484,15.11,86.84,18.8,40996,68.65,90.75
+Northwestern University,Private,6090,62920,135.15,70.33,25.12,54726,68.34,63.24
+Duke University,Private,8960,139561,137.75,86.98,6.15,31134,71.86,84.3
+Princeton University,Private,37772,68946,43.93,71.87,25.2,51550,96.43,67.47
+University of Texas at Austin,Private,23520,236572,480.31,88.74,9.45,35119,81.9,111.01
+University of Washington,Public,38408,76309,244.35,98.16,17.87,25627,89.36,82.52
+Duke University,Private,30470,115230,448.95,88.86,25.21,57360,73.86,87.14
+University of Pennsylvania,Public,22491,171822,167.89,94.52,11.35,13135,76.31,92.16
+"University of California, Berkeley",Public,3341,221099,71.36,60.08,11.15,16953,65.02,84.1
+Columbia University,Private,46623,172340,242.42,88.7,15.07,34164,66.85,90.09
+Duke University,Public,26791,119321,65.84,93.18,27.37,25457,93.09,80.97
+Duke University,Public,2338,192028,248.15,61.62,5.01,27478,83.39,90.41
+University of Virginia,Public,7895,134131,460.95,94.86,27.53,12411,73.5,91.6
+Cornell University,Public,14254,238980,265.18,70.27,8.85,29001,92.11,101.54
+University of Pennsylvania,Private,13344,85963,312.08,86.61,29.75,40442,69.86,76.26
+University of Wisconsin-Madison,Public,3750,161757,86.75,92.01,28.87,14145,99.04,88.5
+Duke University,Private,4421,230515,31.43,86.51,17.37,51425,73.79,92.76
+Massachusetts Institute of Technology,Private,41887,159259,64.3,63.69,17.82,57586,73.49,76.06
+University of Washington,Public,7319,99063,303.28,83.85,17.04,22851,72.48,80.2
+Columbia University,Private,17896,174225,56.56,81.98,20.89,47721,64.88,81.22
+University of Wisconsin-Madison,Private,13918,176400,194.24,96.01,7.27,47568,64.45,92.53
+University of Washington,Private,27064,140818,279.55,76.17,5.82,50810,85.92,88.38
+Columbia University,Public,48617,64703,200.44,72.84,6.44,24119,95.0,75.28
+Princeton University,Private,29935,132099,90.21,89.99,16.11,42625,91.62,84.62
+California Institute of Technology,Private,39641,216921,144.16,76.51,11.89,31629,65.64,90.57
+University of Virginia,Private,31711,222932,464.88,85.84,20.55,55903,81.82,105.39
+University of Wisconsin-Madison,Public,6806,91585,341.23,85.86,29.81,26575,64.22,76.61
+University of Southern California,Private,43360,213087,253.06,95.52,14.66,56249,61.81,97.64
+Cornell University,Public,14182,103585,16.23,83.95,19.35,10861,86.26,74.59
+University of Texas at Austin,Public,24297,86958,496.28,80.09,15.39,19275,81.41,85.16
+"University of California, Berkeley",Public,21541,86017,339.01,65.55,26.18,27033,63.28,70.16
+University of Washington,Public,30921,184677,165.29,64.63,27.56,14134,61.4,78.82
+University of Virginia,Public,18774,236422,440.84,66.17,26.93,21803,99.59,103.07
+Massachusetts Institute of Technology,Public,46813,203273,136.63,66.87,29.36,25408,61.2,81.02
+Cornell University,Private,39198,89426,276.57,85.52,5.69,40558,77.78,81.79
+Princeton University,Public,10820,77778,321.67,89.64,26.0,26351,80.18,79.04
+University of Pennsylvania,Private,26070,236313,118.32,81.2,23.79,44839,64.69,91.54
+University of Michigan,Private,6232,102229,489.41,93.16,10.72,41949,66.76,89.17
+Princeton University,Public,13122,146652,376.61,99.65,28.91,22057,74.07,92.22
+California Institute of Technology,Private,17023,188267,283.33,92.8,8.7,31993,90.47,100.93
+University of Texas at Austin,Private,10007,239436,98.49,87.8,21.99,30869,80.28,96.87
+"University of California, Berkeley",Private,19905,186503,36.39,81.3,10.62,31014,85.52,88.44
+"University of California, Los Angeles",Private,43786,144878,166.83,77.95,15.78,40103,99.41,86.85
+"University of California, Los Angeles",Public,31398,117056,379.06,63.38,22.98,22453,90.72,81.49
+Northwestern University,Private,36268,218562,141.97,75.97,19.08,42013,77.37,91.49

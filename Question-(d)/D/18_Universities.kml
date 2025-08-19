@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Untitled project</name>
+	<gx:CascadingStyle kml:id="__managed_style_0CC504D28B393260428C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4.8</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1AEF16F45C393260428B">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/document/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3.2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<displayMode>hide</displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_035BFF78CD393260428B">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1AEF16F45C393260428B</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0CC504D28B393260428C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="07B1CCF80C3932604271">
+		<name>University of Colombo</name>
+		<LookAt>
+			<longitude>79.8587596082598</longitude>
+			<latitude>6.900177815896186</latitude>
+			<altitude>13.53436125804611</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>269.0206574488911</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>79.85879666683766,6.900018829646653,13.79416453449657</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="042EA73CBD3932649BF4">
+		<name>University of Peradeniya</name>
+		<LookAt>
+			<longitude>80.59739019992057</longitude>
+			<latitude>7.254942200083107</latitude>
+			<altitude>485.0994347660521</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>837.727720974799</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>80.59739570476721,7.254949026242533,485.0201319138356</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B2F3316C4393266F15E">
+		<name>University of Sri Jayewardenepura</name>
+		<LookAt>
+			<longitude>79.90358193362947</longitude>
+			<latitude>6.852623507020668</latitude>
+			<altitude>24.63408418089946</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1039.474353289989</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>79.90358193372722,6.852733680252824,24.00404831941357</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00B96A264C3932688748">
+		<name>University of Kelaniya</name>
+		<LookAt>
+			<longitude>79.9156091100145</longitude>
+			<latitude>6.975288657107181</latitude>
+			<altitude>26.06483737664619</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>354.2785295898285</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>79.91557889557019,6.975369978656047,26.4265485809049</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09762862BC3932698060">
+		<name>University of Moratuwa</name>
+		<LookAt>
+			<longitude>79.90089470609809</longitude>
+			<latitude>6.795068646072867</latitude>
+			<altitude>27.79732008757685</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>356.4472112067233</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>79.90085263100862,6.795104042655572,28.16498920381064</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AB77C3ADE39326A859C">
+		<name>University of Jaffna</name>
+		<LookAt>
+			<longitude>80.023176415438</longitude>
+			<latitude>9.683613575603625</latitude>
+			<altitude>17.25846150811132</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>456.2756116523815</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>80.0230567,9.683893699999999,15.17259994413573</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="044ABCDD7939326BE2AB">
+		<name>	University of Ruhuna</name>
+		<LookAt>
+			<longitude>80.57613440000085</longitude>
+			<latitude>5.938092100032378</latitude>
+			<altitude>14.14554529146017</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>840.1338339195354</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>80.57612338185754,5.93814826460858,13.67134038786725</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00A08D4ADB39326CEBD0">
+		<name>The Open University of Sri Lanka</name>
+		<LookAt>
+			<longitude>79.88669570001359</longitude>
+			<latitude>6.882922700094387</latitude>
+			<altitude>9.083902005829561</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>838.3878190045655</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>79.88667918579853,6.882858484560556,9.063137349608608</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07DD8F92AB39326E0D4C">
+		<name>Eastern University, Sri Lanka</name>
+		<LookAt>
+			<longitude>81.57901710001185</longitude>
+			<latitude>7.79443660000164</latitude>
+			<altitude>14.05782741314822</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>836.5016259686672</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>81.57901159730788,7.794405252116596,14.19786504675831</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06354E61CB39326EF000">
+		<name>South Eastern University of Sri Lanka</name>
+		<LookAt>
+			<longitude>81.85003280006777</longitude>
+			<latitude>7.296967799954824</latitude>
+			<altitude>6.310936021568885</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>837.5742852670373</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>81.85001079624799,7.296898230779518,6.819233565364797</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="002B9D8251393270429C">
+		<name>Rajarata University of Sri Lanka</name>
+		<LookAt>
+			<longitude>80.5033368998966</longitude>
+			<latitude>8.360803400067152</latitude>
+			<altitude>110.8713744042492</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>835.1895884241094</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>80.50332038629882,8.360886453462175,110.5570877767032</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07A518815B3932739D48">
+		<name>Sabaragamuwa University of Sri Lanka</name>
+		<LookAt>
+			<longitude>80.78721850001578</longitude>
+			<latitude>6.714591199974866</latitude>
+			<altitude>601.6686589458286</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>838.8469208926836</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>80.78721299640205,6.714608963724334,601.9347198883472</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E5FD858973932752068">
+		<name>	Wayamba University of Sri Lanka</name>
+		<LookAt>
+			<longitude>79.9893493783041</longitude>
+			<latitude>7.322820456417549</latitude>
+			<altitude>24.42584077853064</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>451.0088266842649</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>79.98869979999999,7.323046499999999,23.70099675871537</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F82A7E2F739327602B4">
+		<name>Uva Wellassa University</name>
+		<LookAt>
+			<longitude>81.07926247714971</longitude>
+			<latitude>6.983120575969248</latitude>
+			<altitude>753.5021044187398</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>471.3446205865331</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>81.07937434933734,6.983207713293253,751.5977797947089</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05CE54D5303932773AD0">
+		<name>University of the Visual &amp; Performing Arts</name>
+		<LookAt>
+			<longitude>79.86254258151106</longitude>
+			<latitude>6.909889508311841</latitude>
+			<altitude>13.62235505645493</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>170.2861122162176</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>79.86248219332103,6.909961947309739,13.5962930130598</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09546A883F39327809EC">
+		<name>Gampaha Wickramarachchi University of Indigenous Medicine</name>
+		<LookAt>
+			<longitude>80.0366003540059</longitude>
+			<latitude>7.090159808390968</latitude>
+			<altitude>23.32655274276345</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>512.4519936142316</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>80.03666450208259,7.090348268133906,21.79385535186748</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E8CA7E859393278EBE9">
+		<name>Institute of Technology University of Moratuwa</name>
+		<LookAt>
+			<longitude>79.99294228109879</longitude>
+			<latitude>6.808007537925231</latitude>
+			<altitude>29.89261031000626</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>483.7542781253433</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>79.9930311762439,6.80803354555532,30.03000083372814</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03FDD6661E393296A3A3">
+		<name>University of Vauniya, Sri Lanka</name>
+		<LookAt>
+			<longitude>80.40533293505248</longitude>
+			<latitude>8.750124505817567</latitude>
+			<altitude>80.58508434152219</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>11216.67126981192</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_035BFF78CD393260428B</styleUrl>
+		<Point>
+			<coordinates>80.41069659999999,8.758674599999999,92.1975462835519</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>
